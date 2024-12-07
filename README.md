@@ -1,6 +1,7 @@
 # Adder-and-Subtractor-using-Gates
 
-The 4-bit adder and subtractor circuit can perform addition or subtraction depending on a control signal. This control signal, often referred to as the "mode" or "operation" signal, determines whether the circuit functions as an adder or subtractor. When set to addition mode, the circuit computes the sum of two 4-bit binary numbers but can only produce output of maximum 4-bit binary number. In subtraction mode, it calculates the difference between the two numbers by utilizing the concept of two's complement representation with the help of an EX-OR gate to select the mode.
+The 4-bit adder and subtractor circuit can perform addition or subtraction depending on a control signal. This control signal, often referred to as the "mode" or "operation" signal, determines whether the circuit functions as an adder or subtractor. When set to addition mode, the circuit computes the sum of two 4-bit binary numbers but can only produce output of maximum 4-bit binary number so i will make a 5 bit binary to BCD converter for the output of sum soon. 
+In subtraction mode, it calculates the difference between the two numbers by utilizing the concept of two's complement representation with the help of an EX-OR gate to select the mode.
 
 # SCHEMATIC:
 
