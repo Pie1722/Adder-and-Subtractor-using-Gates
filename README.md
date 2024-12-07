@@ -49,9 +49,13 @@ INPUT FROM  B
 Minimized expression for each output:
 
 W = AB + AC (carry decimal)
+
 X = A’B’
+
 Y = A’B + BC
+
 Z = ABC’ + A’C
+
 E = D  (first bit)
 
 NOTE:
