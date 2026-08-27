@@ -67,6 +67,7 @@ The same is used for the conversion of binary digits to decimal which is getting
 <img width="4080" height="3072" alt="IMG_20260815_165008" src="https://github.com/user-attachments/assets/87d15e5c-210d-4fe6-becd-a8a7fe9cb02b" />
 
 I recently plugged it all in and took this photo that is why there is a lot of dust. Still works good after 3 years !
+
 I might create a PCB for this later with add-on like multiplication etc.
 
 
